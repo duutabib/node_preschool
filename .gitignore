@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ignore all media files and pdfs
 *.ts
 *.pdf
@@ -8,4 +9,9 @@ node_modules
 # all other files 
 .DS_store
 *.bak
+=======
+*.ts
+*.pdf
+
+>>>>>>> 0b83a043c83733b2757bf589e5a97eaf354100b9
 
