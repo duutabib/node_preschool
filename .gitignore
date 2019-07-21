@@ -1,4 +1,11 @@
+# ignore all media files and pdfs
 *.ts
 *.pdf
 
+# ignore all packages installed with
+node_modules
+
+# all other files 
+.DS_store
+*.bak
 
