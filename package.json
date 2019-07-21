@@ -1,0 +1,27 @@
+{
+  "name": "node_preschool",
+  "version": "1.0.0",
+  "description": "learning server-side developement with node and express",
+  "main": "helloWorld.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duutabib/node_preschool.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "duutabib",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/duutabib/node_preschool/issues"
+  },
+  "homepage": "https://github.com/duutabib/node_preschool#readme"
+}
