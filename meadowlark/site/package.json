@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "travel website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/duutabib/node_preschool.git"
+  },
+  "author": "duutabib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duutabib/node_preschool/issues"
+  },
+  "homepage": "https://github.com/duutabib/node_preschool#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
